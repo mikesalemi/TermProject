@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\iCloudDrive\\Desktop\\School\\Winter 2022\\Data Structures & Algorithms - COIS-2020\\TermProj_attempt2\\TermProj_attempt2\\TermProj_attempt2.csproj": {}
+    "C:\\Users\\micha\\iCloudDrive\\Desktop\\School\\Winter 2022\\Data Structures & Algorithms - COIS-2020\\TermProject 2\\TermProj_attempt2\\TermProj_attempt2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\iCloudDrive\\Desktop\\School\\Winter 2022\\Data Structures & Algorithms - COIS-2020\\TermProj_attempt2\\TermProj_attempt2\\TermProj_attempt2.csproj": {
+    "C:\\Users\\micha\\iCloudDrive\\Desktop\\School\\Winter 2022\\Data Structures & Algorithms - COIS-2020\\TermProject 2\\TermProj_attempt2\\TermProj_attempt2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\iCloudDrive\\Desktop\\School\\Winter 2022\\Data Structures & Algorithms - COIS-2020\\TermProj_attempt2\\TermProj_attempt2\\TermProj_attempt2.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\iCloudDrive\\Desktop\\School\\Winter 2022\\Data Structures & Algorithms - COIS-2020\\TermProject 2\\TermProj_attempt2\\TermProj_attempt2.csproj",
         "projectName": "TermProj_attempt2",
-        "projectPath": "C:\\Users\\micha\\iCloudDrive\\Desktop\\School\\Winter 2022\\Data Structures & Algorithms - COIS-2020\\TermProj_attempt2\\TermProj_attempt2\\TermProj_attempt2.csproj",
+        "projectPath": "C:\\Users\\micha\\iCloudDrive\\Desktop\\School\\Winter 2022\\Data Structures & Algorithms - COIS-2020\\TermProject 2\\TermProj_attempt2\\TermProj_attempt2.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\iCloudDrive\\Desktop\\School\\Winter 2022\\Data Structures & Algorithms - COIS-2020\\TermProj_attempt2\\TermProj_attempt2\\obj\\",
+        "outputPath": "C:\\Users\\micha\\iCloudDrive\\Desktop\\School\\Winter 2022\\Data Structures & Algorithms - COIS-2020\\TermProject 2\\TermProj_attempt2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
