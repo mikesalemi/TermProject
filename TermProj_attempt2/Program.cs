@@ -10,7 +10,7 @@ namespace TermProj
             mike.setPhonebookOwner("Mike"); // sets owners name
             populatePhoneBook(mike); // adds all contacts to phonebook for program startup
             mike.displayPhonebookInfo(); // displays owner and count of contacts
-            mike.displayContactList(); // displays all contacts in the contact list, not the waitlist
+            mike.displayContactList(); // displays all contacts in the contact list, not the wait-list
 
         }
 

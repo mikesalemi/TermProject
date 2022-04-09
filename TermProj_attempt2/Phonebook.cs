@@ -17,7 +17,7 @@ namespace TermProj
         {
         contactList = new LinkedList<Contact>();
         contactsToBeAdded = new Queue<Contact>();
-        maxContacts = 15;
+        maxContacts = 10;
         }
 
         public void setPhonebookOwner(string name) // set name for owner of the singleton phonebook object
